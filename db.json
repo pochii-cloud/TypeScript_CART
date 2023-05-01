@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "productName": "Keyboard",
+      "productImg": "https://imgs.search.brave.com/7I57aX4eYRaU9EXJfdAKZZhXgBv4fQVV1iUu-YuDJ0k/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzgxMzYvMSp0/QmowWE0wRFFWVDRU/NkxGS016bk53LnBu/Zw",
+      "productDescription": "\nInternational keyboard layouts in 2017 | by Marcin Wichary",
+      "productPrice": "3000",
+      "id": 3
+    },
+    {
+      "productName": "Mouse",
+      "productImg": "https://imgs.search.brave.com/ysqadkH_tvYB_BM2Ez1V_p7k37_zEqdfJUpHEiT0t0s/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nYW1p/bmdseWZlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8x/MS9ST0NDQVQtc2Nh/bGVkLmpwZw",
+      "productDescription": "\nROCCAT KONE AIMO MOUSE OUT NOW",
+      "productPrice": "500",
+      "id": 4
+    },
+    {
+      "productName": "Desktop",
+      "productImg": "https://imgs.search.brave.com/-kKJnrY_LSxVKjiJSsVwosfmCPpvgYQ4pkDg9dNt-Kc/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNsaWZlLmdy/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzA5L1JPQ0NBVF9T/a2x0X0Rlc2t0b3Bf/MDEtcmlnaHRfR1JZ/LUxhcmdlLmpwZw",
+      "productDescription": "\nROCCAT",
+      "productPrice": "10000",
+      "id": 5
+    },
+    {
+      "productName": "Headsets",
+      "productImg": "https://i.shgcdn.com/608caeaf-adae-489f-9ef0-7be72336e91c/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+      "productDescription": "Headset",
+      "productPrice": "1000",
+      "id": 7
+    },
+    {
+      "productName": "Streaming Mics",
+      "productImg": "https://i.shgcdn.com/80278c23-1489-4766-a1e8-ff5ee572e01a/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+      "productDescription": "Streamimg Microphones",
+      "productPrice": "2500",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "productName": "Desktop",
+      "productImg": "https://imgs.search.brave.com/-kKJnrY_LSxVKjiJSsVwosfmCPpvgYQ4pkDg9dNt-Kc/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNsaWZlLmdy/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzA5L1JPQ0NBVF9T/a2x0X0Rlc2t0b3Bf/MDEtcmlnaHRfR1JZ/LUxhcmdlLmpwZw",
+      "productDescription": "\nROCCAT",
+      "productPrice": "10000",
+      "productid": 5,
+      "quantity": 4,
+      "id": 2
+    },
+    {
+      "productName": "Keyboard",
+      "productImg": "https://imgs.search.brave.com/7I57aX4eYRaU9EXJfdAKZZhXgBv4fQVV1iUu-YuDJ0k/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzgxMzYvMSp0/QmowWE0wRFFWVDRU/NkxGS016bk53LnBu/Zw",
+      "productDescription": "\nInternational keyboard layouts in 2017 | by Marcin Wichary",
+      "productPrice": "3000",
+      "productid": 3,
+      "quantity": 1,
+      "id": 3
+    }
+  ]
+}
